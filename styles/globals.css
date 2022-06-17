@@ -39,6 +39,12 @@ footer {
   text-align: center;
 }
 .not-found a{
-  color: #4979ff;
-  text-decoration: underline;
+  display: block;
+  width: 150px;
+  padding: 8px 0;
+  margin: 20px auto;
+  background: #4979ff;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
 }
